@@ -1,7 +1,7 @@
 id=${moduleId}
-name=${api} - LSPosed
-version=${versionName} (${versionCode})
-versionCode=${versionCode}
-author=${authorList}
-description=Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 16. ${requirement}.
+name=${api} - LSPosed (DiMagisk build)
+version=${versionName}-dimagisk.2 (${versionCode})
+versionCode=7211
+author=${authorList} & Dmitry Bolshakov
+description=Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 16. Requires Magisk 26.0+ and Zygisk enabled. Designed for Harman GWMv2 HUT
 updateJson=${updateJson}
